@@ -20,9 +20,7 @@
 ## 💾**Clone Do Repositório**
 
 ```
-#Para fazer clone do repositório ultilizando git use a linha de comando abaixo:
-
-git clone 
+git clone https://github.com/AAndersonSantos/Jogo-Space-Shooter.git 
 
 ```
 
