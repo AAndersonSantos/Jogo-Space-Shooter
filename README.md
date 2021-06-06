@@ -1,6 +1,11 @@
 <h1 align="center">🚀 Jogo Space Shooter 🚀 </h1>
 
-<h2 align="center"><a href="">🚀 Clique Aqui Para Jogar 🚀</a></h2>
+<h2 align="center"><a href="https://aandersonsantos.github.io/Jogo-Space-Shooter/">🚀 Clique Aqui Para Jogar 🚀</a></h2>
+
+---
+
+## 👨🏻‍🏫**Instrução**
+#Utilize a tecla ↑ para movimentar a nave para cima, a tecla ↓ para movimentar a nave para baixo e a tecla espaço para atirar.
 
 ---
 
@@ -25,4 +30,4 @@ git clone
 
 ## 📝**Licença**
 
-[MIT]()
+[MIT](https://github.com/AAndersonSantos/Jogo-Space-Shooter/blob/main/LICENSE)
